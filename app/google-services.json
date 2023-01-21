@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834704304404",
+    "project_id": "kathbathapp",
+    "storage_bucket": "kathbathapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834704304404:android:24acf2410ac48647b7fa01",
+        "android_client_info": {
+          "package_name": "com.muffakir.kathbath_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834704304404-st9if5mk03n9i61uqcrdmvrpsnoj28fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKhAECDO-7fvOBqHBFFrjbvhFjACa6LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834704304404-st9if5mk03n9i61uqcrdmvrpsnoj28fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
